@@ -22,3 +22,7 @@ _________________
 ## VIDEO 4 :
  * Request Object
  * Response Object
+ * Basic Routing
+ * Returning HTML files
+ * STATUS CODES (404, 500, 200, 201)
+ * Redirects
